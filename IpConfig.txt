@@ -1,1 +1,1 @@
-192.168.10.10
+\\192.168.10.102\mail2\Data_HOTMAIL\\config\\Config.ini
